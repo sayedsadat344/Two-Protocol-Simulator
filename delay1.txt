@@ -1,0 +1,4 @@
+
+ delay -> 0.000000
+Total # delay1  4.764918
+(Avg # delay1)/N  =  0.952984

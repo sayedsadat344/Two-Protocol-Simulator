@@ -1,0 +1,3 @@
+
+Total # delay2  5.026372
+(Avg # delay2)/N  =  1.005274
